@@ -31,7 +31,7 @@
 	%>
 	<h2>您已cnm！</h2>
 	<h3>
-		如果没有跳转，请点击<a href="index.jsp">这里</a>
+		cnm<a href="index.jsp">这里</a>
 	</h3>
 
 </body>
